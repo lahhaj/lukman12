@@ -1,0 +1,26 @@
+white='\033[37;1m'
+purple='\033[35;1m'
+blue='\033[34;1m'
+yellow='\033[33;1m'
+green='\033[32;1m'
+red='\033[31;1m'
+cyan='\033[36;1m'
+claer
+toilet -f big -F gay "Xtrame"
+toilet -f big -F gay "Xtube"
+echo ""
+echo $cyan"LUKMAN NURUL HAKIM t:gagah Nana tmvan"
+echo ""
+echo $yellow(1)"$green"AKU MAU VOKCLI"
+echo $yellow(2)"$green" AKU MAU CIPOKAN"
+echo ""
+read -p"pilih gys"bos:
+if [ $boss = 1 ] || [$boss = 1 ]
+then
+claer
+echo $red"Thnks gys"
+
+if [ $boss = 2 ] || [ $boss = 2 ]
+then
+clear
+echo $blue"YAUDAH gpapa, sy Sedih (- -)
